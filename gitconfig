@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jcoueron@yahoo.fr
+	name = jessica coueron
